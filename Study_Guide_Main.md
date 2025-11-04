@@ -140,3 +140,100 @@ Cryptographic solutions are used whenever there is a need to protect information
 
 ### How are Cryptographic Solutions Used?
 Cryptographic solutions are used to encrypt data, to create digital signatures, and to authenticate users. Encryption is the process of converting data into a form that cannot be easily understood by unauthorized people. Digital signatures are used to verify the authenticity of a message or document. Authentication is the process of verifying the identity of a user.
+
+## 2.1: Threat Actors and Motivations
+
+### Who are Threat Actors?
+Threat actors are individuals or groups who perform malicious cyber activities. They include nation-states, unskilled attackers, hacktivists, insider threats, organized crime, and shadow IT.
+
+### What do they do?
+Threat actors engage in activities like malware creation, data theft, and causing service disruptions to steal, alter, or destroy data.
+
+### Where do they operate from?
+Threats can be external (nation-states, organized crime) or internal (insider threats, shadow IT).
+
+### When do they attack?
+Attacks can happen at any time, with some actors (like nation-states) aiming for long-term, persistent access.
+
+### Why do they attack?
+Motivations are diverse and include financial gain, data exfiltration, espionage, political or social agendas (hacktivism), creating chaos, blackmail, revenge, and cyber warfare.
+
+### How do they operate?
+Their methods vary based on resources and skill. They use everything from simple automated tools to highly sophisticated techniques to exploit vulnerabilities and bypass security.
+
+## 2.2: Threat Vectors and Attack Surfaces
+
+### What are Threat Vectors and Attack Surfaces?
+A threat vector is the path an attacker uses to access a system (e.g., a phishing email). The attack surface is the sum of all possible entry points for an attack.
+
+### Who uses them?
+Cybercriminals and other threat actors use threat vectors to exploit vulnerabilities.
+
+### Where are they found?
+Threat vectors are found in messages (email, SMS), unsecured networks, social engineering, files, voice calls, the supply chain, and vulnerable software.
+
+### When are systems vulnerable?
+Systems are vulnerable when they have unpatched software, weak configurations, or when users fall for social engineering tactics.
+
+### Why are they important to understand?
+Understanding vectors and surfaces is key to identifying and protecting potential points of attack.
+
+### How do they work?
+They exploit technical flaws (like unpatched software) or human behavior (like clicking a malicious link) to deliver a payload or gain unauthorized access.
+
+## 2.3: Vulnerabilities
+
+### What are Vulnerabilities?
+Vulnerabilities are weaknesses in systems, applications, or processes that can be exploited by attackers.
+
+### Who is affected by them?
+Anyone using a system with a vulnerability is at risk, from individuals to entire organizations.
+
+### Where are they found?
+Vulnerabilities exist in applications, hardware, mobile devices, virtualization, operating systems, cloud environments, web applications, and supply chains.
+
+### When do they occur?
+Vulnerabilities can be introduced at any point in a system's lifecycle, from design to operation, and new ones are discovered constantly.
+
+### Why are they a problem?
+Unaddressed vulnerabilities can lead to data breaches, system compromise, service disruption, and financial and reputational damage.
+
+### How are they managed?
+Vulnerabilities are managed through a cycle of identification (scanning, testing), assessment, and remediation (patching, secure coding, configuration hardening).
+
+## 2.4: Malicious Activity
+
+### What is Malicious Activity?
+Malicious activity is any intentional act designed to harm a system, network, or user. This includes malware attacks, password attacks, application attacks, physical attacks, network attacks, and cryptographic attacks.
+
+### Who performs it?
+Threat actors, including nation-states, script kiddies, hacktivists, insiders, and organized crime, are responsible for malicious activities.
+
+### Where and When does it occur?
+Attacks can happen on networks, applications, physical locations, and through user interaction at any time.
+
+### Why does it happen?
+Motivations include financial gain, data theft, espionage, political agendas, and revenge.
+
+### How is it carried out?
+Attackers use various techniques like ransomware, phishing, SQL injection, denial-of-service, and exploiting cryptographic weaknesses to achieve their goals.
+
+## 2.5: Mitigation Techniques
+
+### What are Mitigation Techniques?
+Mitigation techniques are strategies and controls used to reduce the likelihood or impact of a security threat.
+
+### Who implements them?
+Security professionals, network administrators, and IT operations teams are typically responsible for implementing mitigation techniques.
+
+### Where are they applied?
+They are applied across the entire IT environment, including networks, systems, applications, and data.
+
+### When are they used?
+Mitigation techniques are used proactively during system design and operation, and reactively during an incident response.
+
+### Why are they important?
+They are essential for protecting against threats, containing breaches, and ensuring the resilience of systems and services.
+
+### How are they implemented?
+Key techniques include segmentation (dividing a network), access control (restricting access), configuration enforcement (maintaining secure baselines), hardening (reducing the attack surface), isolation (separating critical systems), and patching (fixing vulnerabilities).
