@@ -10,26 +10,26 @@ This guide is a work in progress.
 
 ### Official Exam Domains
 
-*   **[Domain 1: General Security Concepts (12%)](./DOMAIN_1_RESEARCH.md)**
+*   **[Domain 1: General Security Concepts (12%)](./domain-1-research.md)**
     *   Security Controls
     *   Fundamental Concepts (CIA, AAA, Zero Trust)
     *   Change Management
     *   Cryptographic Solutions
 
-*   **[Domain 2: Threats, Vulnerabilities, and Mitigations (22%)](./DOMAIN_2_RESEARCH.md)**
+*   **[Domain 2: Threats, Vulnerabilities, and Mitigations (22%)](./domain-2-research.md)**
     *   Threat Actors and Motivations
     *   Threat Vectors and Attack Surfaces
     *   Vulnerabilities
     *   Malicious Activity Analysis
     *   Mitigation Techniques
 
-*   **[Domain 3: Security Architecture (18%)](./DOMAIN_3_RESEARCH.md)**
+*   **[Domain 3: Security Architecture (18%)](./domain-3-research.md)**
     *   Architecture Models (Cloud, IoT, ICS)
     *   Enterprise Infrastructure Security
     *   Data Protection
     *   Resilience and Recovery
 
-*   **[Domain 4: Security Operations (28%)](./DOMAIN_4_RESEARCH.md)**
+*   **[Domain 4: Security Operations (28%)](./domain-4-research.md)**
     *   Secure Baselines and Hardening
     *   Asset Management
     *   Vulnerability Management
@@ -37,7 +37,7 @@ This guide is a work in progress.
     *   Identity and Access Management (IAM)
     *   Incident Response (IR)
 
-*   **[Domain 5: Security Program Management and Oversight (20%)](./DOMAIN_5_RESEARCH.md)**
+*   **[Domain 5: Security Program Management and Oversight (20%)](./domain-5-research.md)**
     *   Security Governance
     *   Risk Management
     *   Third-Party Risk
@@ -49,4 +49,4 @@ This guide is a work in progress.
 
 ### Project Background
 
-For details on the project's goals, structure, and the full exam syllabus used to create this guide, please see the **[Project Charter](./PROJECT_CHARTER.md)**.
+For details on the project's goals, structure, and the full exam syllabus used to create this guide, please see the **[Project Charter](./project-charter.md)**.
